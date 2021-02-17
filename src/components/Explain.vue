@@ -1,5 +1,5 @@
 <template>
-  <div class="m-auto text-center space-y-5 self-center">
+  <div class="m-auto text-center space-y-5">
     <h1 class="text-gray-900 text-5xl dark:text-white">
       the mint farm is down!
     </h1>
